@@ -1,0 +1,8 @@
+
+.venv
+# below files belong to angular
+package-lock.json
+node_modules 
+package.json
+my-microservice/.vscode
+my-microservice/node_modules
